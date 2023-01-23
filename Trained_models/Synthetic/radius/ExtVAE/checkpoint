@@ -1,0 +1,2 @@
+model_checkpoint_path: "Ext_VAE_custom_outputG_fig3"
+all_model_checkpoint_paths: "Ext_VAE_custom_outputG_fig3"

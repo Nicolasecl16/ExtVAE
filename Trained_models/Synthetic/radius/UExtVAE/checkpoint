@@ -1,0 +1,2 @@
+model_checkpoint_path: "U_Ext_VAE_checkpoint"
+all_model_checkpoint_paths: "U_Ext_VAE_checkpoint"
